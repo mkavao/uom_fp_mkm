@@ -1,0 +1,4 @@
+#Ignore all .dta, xlsx files
+*.dta  
+*.xlsx
+*.csv
