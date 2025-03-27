@@ -6,9 +6,10 @@ This repository contains code, data and outputs for the UoM FP Project. Currentl
 
 ## 📁 Folder Structure
 
-- `code/` — Stata `.do` files and supporting scripts
-- `data/` — Datasets (DO NOT COMMIT raw unnecessary datasets)
-- `outputs/` — Tables, figures, and results
+- `codes/` — Stata `.do` files and supporting scripts
+- `Data/` — Datasets (both raw and cleaned datasets)
+- `output/` — Tables, figures, and results
+- `Questionnnaire_final_updated` - Final questionnaires as in the programmed tool
 
 
 ## 🔧 Requirements
@@ -16,12 +17,6 @@ This repository contains code, data and outputs for the UoM FP Project. Currentl
 - Stata 16 or later
 - R 4.2+ (optional, for some visualizations)
 
-## ▶️ Running the Analysis
-
-1. Open `01_import.do` to import raw data
-2. Run `02_cleaning.do` for data cleaning
-3. Run `03_analysis.do` for indicator generation
-4. Final outputs are saved in the `outputs/` folder
 
 ## 🧑‍💻 Contributors
 
