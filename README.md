@@ -1,8 +1,5 @@
 # uom_fp
 This repository contains code, data and outputs for the UoM FP Project. Currently, the analysis is only for Senegal but will be hosting CIV data analysis as well.
-# FP Senegal Analysis
-
-
 
 ## 📁 Folder Structure
 
