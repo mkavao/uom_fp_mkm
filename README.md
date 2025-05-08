@@ -1,5 +1,6 @@
 # uom_fp
-This repository contains code, data and outputs for the UoM FP Project. Currently, the analysis is only for Senegal but will be hosting CIV data analysis as well.
+This repository contains code, data and outputs for the UoM FP Project. 
+The repository contains analysis files file for both Senegal and Cote d'Ivoire study sites.
 
 ## 📁 Folder Structure
 
@@ -17,11 +18,12 @@ This repository contains code, data and outputs for the UoM FP Project. Currentl
 
 ## 🧑‍💻 Contributors
 
-- Martin.
-- Arsene.
-- Rodrigue.
-- Dibor.
-- Peter.
+- Martin Mutua
+- Peter Kaberia
+- Rodrigue Nda'chi Deffo
+- Anne Njeri
+- Ndeye Dibor Ndour
+- 
 - 
 
 ## ✅ Contributing
