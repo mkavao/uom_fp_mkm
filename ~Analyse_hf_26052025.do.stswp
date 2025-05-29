@@ -1,6 +1,8 @@
 cap cd "D:\Dropbox\Dropbox\FP-Project-APHRC-UM\Worshop_FP_UM\Health_facility_tables"
 cap cd "F:\Dropbox_APHRC\Dropbox\FP-Project-APHRC-UM\Worshop_FP_UM\Health_facility_tables"
 
+martin
+
 use all_hf_data_long_clean_merged_2705.dta, clear
 preserve
 duplicates report id 
